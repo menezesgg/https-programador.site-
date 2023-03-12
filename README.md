@@ -1,4 +1,4 @@
-# https-programador.site
+# Analista e desenvolvedor de Sites
 
 https://programador.site/
 
@@ -19,3 +19,7 @@ Integração de sistemas de pagamento on-line.
 Como analista e desenvolvedor de sistemas, posso ajudá-lo a entender suas necessidades de negócios e desenvolver soluções personalizadas que atendam às suas expectativas e objetivos. 
 
 Além disso, posso fornecer treinamento e suporte contínuo para garantir a eficiência e estabilidade do seu site.
+
+<img src="https://programador.site/images/headers/contratar-programador.png" alt="Programador Profissional" width="1080" height="1080" loading="lazy">
+
+Informação do autor: Alexandre Menezes Gomes, 25 anos, Analista e Desenvolvedor de Sistemas.
